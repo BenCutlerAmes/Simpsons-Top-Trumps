@@ -35,6 +35,11 @@ The following extensions were completed:
 
     - Player versus computer
     - To be able to Create, Update and Delete your own card
+    
+## Personal Responsibilities
+
+I was primarily responsible for refactoring the game logic from a mob coding session and developing the computer player decision logic.
+
 
 ## How to launch the application:
 
